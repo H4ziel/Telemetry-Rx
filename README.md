@@ -3,5 +3,3 @@
 ### The Receiver
 
 ![Reference Image](Figuras/Receptor.jpeg)
-
-### Teste01
